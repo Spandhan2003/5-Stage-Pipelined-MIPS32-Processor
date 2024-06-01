@@ -1,1 +1,1 @@
-# 5-Stage-Pipelined-MIPS32-Processor
+# 5-Stage-Pipelined-MIPS32-RISC-Processor
